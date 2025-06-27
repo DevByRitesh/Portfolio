@@ -14,7 +14,7 @@ const About = () => {
           <div className="relative group">
             <div className="absolute -inset-4 bg-gradient-to-r from-blue-600 to-purple-600 rounded-lg blur opacity-25 group-hover:opacity-75 transition duration-1000 group-hover:duration-200"></div>
             <img
-              src="./public/uploads/ritesh_about.jpg"
+              src="./public/ritesh_about.jpg"
               alt="Ritesh Verma"
               className="relative rounded-lg shadow-xl w-full max-w-md mx-auto transform group-hover:scale-105 transition-transform duration-300"
             />
