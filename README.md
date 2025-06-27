@@ -1,6 +1,5 @@
 # 🌟 Ritesh's Portfolio
 
-![Portfolio Banner](https://your-image-link-here.com/banner.png)
 
 Welcome to my personal portfolio repository! Explore my projects, skills, and journey as a developer. This site is built to showcase my work, share my story, and connect with like-minded professionals.
 
@@ -8,7 +7,7 @@ Welcome to my personal portfolio repository! Explore my projects, skills, and jo
 
 ## 🚀 Demo
 
-[Live Demo](https://your-demo-link.com)
+[Live Demo](https://portfolio-kjb3.onrender.com/)
 
 ---
 
@@ -28,21 +27,9 @@ Welcome to my personal portfolio repository! Explore my projects, skills, and jo
 
 - **Framework:** React.js / Next.js / Vue.js *(Choose your stack!)*
 - **Styling:** Tailwind CSS / Styled Components / SASS
-- **Hosting:** Vercel / Netlify / GitHub Pages
+- **Hosting:** Render/Vercel / Netlify / GitHub Pages
 - **Other:** Add any other core libraries or APIs
 
----
-
-## 🖼️ Screenshots
-
-> _Add screenshots of your portfolio UI here for visual impact!_
-
-<p align="center">
-  <img src="https://your-image-link.com/screenshot1.png" width="400"/>
-  <img src="https://your-image-link.com/screenshot2.png" width="400"/>
-</p>
-
----
 
 ## 📦 Getting Started
 
@@ -67,10 +54,9 @@ npm start
 
 ## 🤝 Connect With Me
 
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [Twitter](https://twitter.com/your-profile)
-- [Email](mailto:your.email@example.com)
-- [Portfolio](https://your-demo-link.com)
+- [LinkedIn](https://www.linkedin.com/in/ritesh-verma-61926a300/)
+- [Email](mailto:riteshverma882004@gmail.com)
+- [Portfolio](https://portfolio-kjb3.onrender.com/)
 
 ---
 
@@ -87,5 +73,3 @@ This project is open source under the [MIT License](LICENSE).
 **Feel free to fork, star, and contribute!**
 
 ---
-
-Let me know if you want specific content or sections added!
